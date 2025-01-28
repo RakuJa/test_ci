@@ -28,7 +28,7 @@ public class HelloClass {
 		logger.debug("This is a debug message!"); // This will NOT be printed, the log level is lower than INFO
 		logger.info("This is an info message!");
 		logger.warn("This is a warning message!");
-		logger.error("This is an error message!");
+		logger.error("This is an error message!");logger.error("This is an error message!");
 
 	}
 
